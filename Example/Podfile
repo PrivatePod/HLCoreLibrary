@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HLCoreLibrary_Example' do
+  pod 'HLCoreLibrary', :path => '../'
+
+  target 'HLCoreLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
