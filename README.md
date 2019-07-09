@@ -1,0 +1,2 @@
+# HLCoreLibrary
+这个repo主要想是做通用的中间层；比如通用的UI框架，通用的Foundation框架，这个框架可以被任意的业务模块使用
