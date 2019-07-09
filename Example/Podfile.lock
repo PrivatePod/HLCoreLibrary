@@ -1,0 +1,16 @@
+PODS:
+  - HLCoreLibrary (0.1.0)
+
+DEPENDENCIES:
+  - HLCoreLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  HLCoreLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLCoreLibrary: 2ab962a2cc767d1789bfa2928e80efc8318f64c9
+
+PODFILE CHECKSUM: 89b408a322b1314a5640ab6ee379c4f8ff4bca51
+
+COCOAPODS: 1.7.2
